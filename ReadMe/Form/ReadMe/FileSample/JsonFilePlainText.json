@@ -1,0 +1,22 @@
+﻿[
+  {
+    "RollNo": 1,
+    "Name": "Michael",
+    "Marks": 10
+  },
+  {
+    "RollNo": 2,
+    "Name": "Peter",
+    "Marks": 20
+  },
+  {
+    "RollNo": 3,
+    "Name": "Amanda",
+    "Marks": 30
+  },
+  {
+    "RollNo": 4,
+    "Name": "Kely",
+    "Marks": 40
+  }
+]
